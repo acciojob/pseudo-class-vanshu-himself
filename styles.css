@@ -1,6 +1,6 @@
 /*  your css code here. If applicable */
 .first{
-	color:red;
+	color:rgb(255, 0, 0);
 	display:inline;
 }
 .second{
@@ -8,6 +8,6 @@
 	display:inline;
 }
 .third{
-	color:red;
+	color:rgb(255, 0, 0);
 	display:inline;
 }
